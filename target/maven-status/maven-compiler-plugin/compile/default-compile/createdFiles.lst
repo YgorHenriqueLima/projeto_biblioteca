@@ -1,0 +1,8 @@
+entity\Estante.class
+entity\Prateleira.class
+entity\Livro.class
+entity\Curso.class
+entity\Aluno.class
+view\frmAluno$1.class
+view\frmAluno.class
+entity\Autor.class
